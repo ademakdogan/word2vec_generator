@@ -1,0 +1,6 @@
+.DS_Store
+.DS_Store?
+**/.DS_Store
+src/__pycache__
+data/hotel-reviews.csv
+
